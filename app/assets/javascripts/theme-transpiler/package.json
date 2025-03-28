@@ -9,7 +9,7 @@
   "dependencies": {
     "@babel/standalone": "^7.26.2",
     "@zxing/text-encoding": "^0.9.0",
-    "babel-plugin-ember-template-compilation": "^2.3.0",
+    "babel-plugin-ember-template-compilation": "^2.4.1",
     "content-tag": "^3.0.0",
     "decorator-transforms": "^2.3.0",
     "discourse-common": "workspace:1.0.0",
